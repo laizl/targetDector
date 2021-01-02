@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libUserList.a CMakeFiles/UserList.dir/UserList_autogen/mocs_compilation.cpp.o CMakeFiles/UserList.dir/test.cpp.o CMakeFiles/UserList.dir/mainwindow.cpp.o
+/usr/bin/ranlib ../../lib/libUserList.a

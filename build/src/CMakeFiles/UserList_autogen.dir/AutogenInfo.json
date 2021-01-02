@@ -1,0 +1,69 @@
+{
+	"BUILD_DIR" : "/home/laizl/目标检测代码/qtTest/build/src/UserList_autogen",
+	"CMAKE_BINARY_DIR" : "/home/laizl/目标检测代码/qtTest/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/laizl/目标检测代码/qtTest/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/laizl/目标检测代码/qtTest/src",
+	"CMAKE_EXECUTABLE" : "/snap/cmake/743/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/laizl/目标检测代码/qtTest/src/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/laizl/目标检测代码/qtTest",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/laizl/目标检测代码/qtTest/build/src/UserList_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/laizl/目标检测代码/qtTest/build/src/UserList_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"HCPP_LEGACY_API",
+		"NO_FREETYPE",
+		"TORRENT_LIBRARY",
+		"UNICODE",
+		"_UNICODE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/laizl/目标检测代码/qtTest/build/src",
+		"/home/laizl/目标检测代码/qtTest/src",
+		"/home/laizl/目标检测代码/qtTest/include",
+		"/usr/include/c++/7",
+		"/usr/include/x86_64-linux-gnu/c++/7",
+		"/usr/include/c++/7/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/home/laizl/目标检测代码/qtTest/build/src/CMakeFiles/UserList_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/laizl/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/home/laizl/anaconda3/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "/home/laizl/目标检测代码/qtTest/build/src/CMakeFiles/UserList_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/laizl/目标检测代码/qtTest/src/mainwindow.cpp", "MU" ],
+		[ "/home/laizl/目标检测代码/qtTest/src/test.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

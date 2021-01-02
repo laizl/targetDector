@@ -1,0 +1,4 @@
+/home/laizl/目标检测代码/qtTest/build/CMakeFiles/rebuild_cache.dir
+/home/laizl/目标检测代码/qtTest/build/CMakeFiles/targetCheck.dir
+/home/laizl/目标检测代码/qtTest/build/CMakeFiles/edit_cache.dir
+/home/laizl/目标检测代码/qtTest/build/CMakeFiles/targetCheck_autogen.dir

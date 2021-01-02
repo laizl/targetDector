@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libTest.a CMakeFiles/Test.dir/mainwindow.cpp.o
+/usr/bin/ranlib ../../lib/libTest.a
